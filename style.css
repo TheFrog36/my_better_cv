@@ -100,7 +100,11 @@ hr{
     }
 
     .body_picture{
+        margin-left: 20px;
         display: block;
+        width: 40%;
+        aspect-ratio: 1;
+        float: right;
     }
     
     .side_picture{
